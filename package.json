@@ -1,0 +1,21 @@
+{
+  "name": "automationtraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihailRotaru/automationTraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihailRotaru/automationTraining/issues"
+  },
+  "homepage": "https://github.com/MihailRotaru/automationTraining#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}
